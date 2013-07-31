@@ -1,0 +1,33 @@
+!!!
+%html
+  %head
+    %meta{charset: "utf-8"}/
+    %meta{content: "IE=edge,chrome=1", "http-equiv" => "X-UA-Compatible"}/
+    %meta{content: "width=device-width", name: "viewport"}/
+    %title {{ page.title }}
+    %link{href: "/css/syntax.css", rel: "stylesheet"}/
+    %link{href: "/css/main.css", rel: "stylesheet"}/
+  %body
+    .container
+      .site
+        .header
+          %h1.title
+            %a{href: "/"} {{ site.name }} for the win
+          %a.extra{href: "/"} home
+
+        {{ content }}
+
+        .footer
+          .contact
+            %p
+              Chris Haueter
+              %br/
+              Software Engineer
+              %br/
+              chris.haueter@gmail.com
+          .contact
+            %p
+              %a{href: "http://github.com/chrishaum/"} github.com/chrishaum
+              %br/
+              %a{href: "http://twitter.com/chrishaum/"} twitter.com/chrishaum
+              %br/
