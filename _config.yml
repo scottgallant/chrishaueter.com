@@ -1,7 +1,15 @@
-name: Your New Jekyll Site
+name: chrishaueter.com
 markdown: redcarpet
+permalink: /blog/:year/:month/:title
 pygments: true
 
 sass:
   syntax: sass
   style: compressed
+
+exclude: 
+  - .gitignore
+  - Vagrantfile
+  - Gemfile
+  - Gemfile.lock
+  - s3_website.yml
