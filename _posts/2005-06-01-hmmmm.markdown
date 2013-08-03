@@ -1,0 +1,15 @@
+---
+author: chris
+comments: true
+date: 2005-06-01 22:13:00+00:00
+layout: post
+published: true
+slug: hmmmm
+title: Hmmmm.....
+wordpress_id: 89
+---
+
+[![]({{ site.url }}/static/img/dime005.jpg)]({{ site.url }}/static/img/dime005.jpg)  
+Hmmmm.....  
+  
+If only I could replicate dimes as is possible digitally....

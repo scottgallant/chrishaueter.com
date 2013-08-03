@@ -1,0 +1,13 @@
+---
+author: chris
+comments: true
+date: 2005-05-31 23:55:00+00:00
+layout: post
+published: true
+slug: a-leaf
+title: A leaf
+wordpress_id: 71
+---
+
+[![]({{ site.url }}/static/img/image_009.jpg)]({{ site.url }}/static/img/image_009.jpg)  
+This leaf is very special to me.

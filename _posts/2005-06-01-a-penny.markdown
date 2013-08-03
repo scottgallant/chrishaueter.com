@@ -1,0 +1,13 @@
+---
+author: chris
+comments: true
+date: 2005-06-01 22:44:00+00:00
+layout: post
+published: true
+slug: a-penny
+title: A penny
+wordpress_id: 104
+---
+
+[![]({{ site.url }}/static/img/penny002.jpg)]({{ site.url }}/static/img/penny002.jpg)  
+I used to collect these and polish them with erasers.  I thought that the shinier they were, the more valuable.

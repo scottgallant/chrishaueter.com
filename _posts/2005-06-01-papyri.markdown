@@ -1,0 +1,17 @@
+---
+author: chris
+comments: true
+date: 2005-06-01 22:43:00+00:00
+layout: post
+published: true
+slug: papyri
+title: Papyri
+wordpress_id: 103
+---
+
+[![]({{ site.url }}/static/img/papyrus002.jpg)]({{ site.url }}/static/img/papyrus002.jpg)  
+An actual gilded Egyptian papyrus the mother brought back from Egypt.  
+  
+Detail:  
+[![]({{ site.url }}/static/img/papyrus003.jpg)]({{ site.url }}/static/img/papyrus003.jpg)  
+

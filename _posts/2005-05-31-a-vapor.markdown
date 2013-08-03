@@ -1,0 +1,13 @@
+---
+author: chris
+comments: true
+date: 2005-05-31 23:55:00+00:00
+layout: post
+published: true
+slug: a-vapor
+title: A vapor
+wordpress_id: 73
+---
+
+[![]({{ site.url }}/static/img/image_003.jpg)]({{ site.url }}/static/img/image_003.jpg)  
+My hand is a blend of the ethereal and corporeal.

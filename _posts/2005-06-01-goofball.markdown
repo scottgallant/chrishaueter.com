@@ -1,0 +1,16 @@
+---
+author: chris
+comments: true
+date: 2005-06-01 18:22:00+00:00
+layout: post
+published: true
+slug: goofball
+title: Goofball
+wordpress_id: 81
+---
+
+[![]({{ site.url }}/static/img/goofball.jpg)]({{ site.url }}/static/img/goofball.jpg)  
+Wow.  I used to act really funny.  
+  
+Oh, wait - I still do.  
+[![]({{ site.url }}/static/img/Picture_001.jpg)]({{ site.url }}/static/img/Picture_001.jpg)

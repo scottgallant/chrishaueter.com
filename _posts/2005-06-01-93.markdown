@@ -1,0 +1,13 @@
+---
+author: chris
+comments: true
+date: 2005-06-01 22:21:00+00:00
+layout: post
+published: true
+slug: '93'
+title: No Content Found
+wordpress_id: 93
+---
+
+[![]({{ site.url }}/static/img/document_055.jpg)]({{ site.url }}/static/img/document_055.jpg)  
+My floor RM at ASMSA, Jim, used to slide these under students' doors when they failed cleanliness inspections.

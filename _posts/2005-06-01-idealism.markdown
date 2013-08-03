@@ -1,0 +1,13 @@
+---
+author: chris
+comments: true
+date: 2005-06-01 22:23:00+00:00
+layout: post
+published: true
+slug: idealism
+title: Idealism
+wordpress_id: 94
+---
+
+[![]({{ site.url }}/static/img/document_064.jpg)]({{ site.url }}/static/img/document_064.jpg)  
+Ah, those were the days - when I still believed that nanotechnology would be used in Eric Drexler's sense - to manufacture anything molecularly.

@@ -1,0 +1,13 @@
+---
+author: chris
+comments: true
+date: 2005-05-31 23:53:00+00:00
+layout: post
+published: true
+slug: take-that
+title: Take that
+wordpress_id: 63
+---
+
+[![]({{ site.url }}/static/img/image_002.jpg)]({{ site.url }}/static/img/image_002.jpg)  
+When a problem comes along, you must whip it...

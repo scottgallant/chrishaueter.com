@@ -13,3 +13,5 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - s3_website.yml
+  - exitwp
+  - pip-log.txt

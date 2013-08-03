@@ -1,0 +1,13 @@
+---
+author: chris
+comments: true
+date: 2005-05-31 23:54:00+00:00
+layout: post
+published: true
+slug: agony
+title: Agony
+wordpress_id: 65
+---
+
+[![]({{ site.url }}/static/img/image_005.jpg)]({{ site.url }}/static/img/image_005.jpg)  
+My brother's expression in this scan reminds me of Edvard Munch's The Scream and Dante's Inferno.

@@ -1,0 +1,13 @@
+---
+author: chris
+comments: true
+date: 2005-06-01 21:07:00+00:00
+layout: post
+published: true
+slug: star
+title: Star
+wordpress_id: 87
+---
+
+[![]({{ site.url }}/static/img/Scan203_May_31_2005.jpg)]({{ site.url }}/static/img/Scan203_May_31_2005.jpg)  
+More flower reproduction parts, but with a cool star pattern.  Please excuse the blurriness.
