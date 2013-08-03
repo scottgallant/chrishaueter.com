@@ -9,5 +9,5 @@ title: Tischreste
 wordpress_id: 79
 ---
 
-[![]({{ site.url }}/static/img/image_018.jpg)]({{ site.url }}/static/img/image_018.jpg)  
+[![](/static/img/image_018.jpg)](/static/img/image_018.jpg)  
 Floral pattern of the table scrap container mentioned earlier

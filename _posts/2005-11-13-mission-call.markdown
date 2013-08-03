@@ -16,9 +16,9 @@ I received my mission call today.
 I have been called to serve in the [drumroll, please]  
   
 Ukraine Donetsk Mission.  
-[![]({{ site.url }}/static/img/62650908_7a00ce8e21_o.jpg)]({{ site.url }}/static/img/62650908_7a00ce8e21_o.jpg)  
+[![](/static/img/62650908_7a00ce8e21_o.jpg)](/static/img/62650908_7a00ce8e21_o.jpg)  
 My mission call:  
-[![]({{ site.url }}/static/img/62650907_f10560e361_o.jpg)]({{ site.url }}/static/img/62650907_f10560e361_o.jpg)  
+[![](/static/img/62650907_f10560e361_o.jpg)](/static/img/62650907_f10560e361_o.jpg)  
 Woohoo!  I'm so happy!  
   
 Chris  

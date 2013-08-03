@@ -9,5 +9,5 @@ title: Deferral granted!
 wordpress_id: 114
 ---
 
-[![]({{ site.url }}/static/img/deferral_acceptance_letter.jpg)]({{ site.url }}/static/img/deferral_acceptance_letter.jpg)  
+[![](/static/img/deferral_acceptance_letter.jpg)](/static/img/deferral_acceptance_letter.jpg)  
 I won't be attending Columbia until 2007.  I'm going on a two-year religous mission first, at my own expense.

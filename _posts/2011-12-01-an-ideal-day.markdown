@@ -41,7 +41,7 @@ I was so excited at the prospect of loving my life again that I made a mind map 
 
 
 
-[![Mind map of an ideal day for Chris Haueter]({{ site.url }}/static/img/an-ideal-day-300x150.jpg)]({{ site.url }}/static/img/an-ideal-day-300x150.jpg)](http://chrishaueter.com/wp-content/uploads/2011/12/an-ideal-day.png)
+[![Mind map of an ideal day for Chris Haueter](/static/img/an-ideal-day-300x150.jpg)](/static/img/an-ideal-day-300x150.jpg)](http://chrishaueter.com/wp-content/uploads/2011/12/an-ideal-day.png)
 
 
 I'd love to hear feedback on my ideal day. Did you notice any glaring omissions?

@@ -9,5 +9,5 @@ title: Star
 wordpress_id: 87
 ---
 
-[![]({{ site.url }}/static/img/Scan203_May_31_2005.jpg)]({{ site.url }}/static/img/Scan203_May_31_2005.jpg)  
+[![](/static/img/Scan203_May_31_2005.jpg)](/static/img/Scan203_May_31_2005.jpg)  
 More flower reproduction parts, but with a cool star pattern.  Please excuse the blurriness.

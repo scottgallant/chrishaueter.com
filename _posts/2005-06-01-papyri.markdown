@@ -9,9 +9,9 @@ title: Papyri
 wordpress_id: 103
 ---
 
-[![]({{ site.url }}/static/img/papyrus002.jpg)]({{ site.url }}/static/img/papyrus002.jpg)  
+[![](/static/img/papyrus002.jpg)](/static/img/papyrus002.jpg)  
 An actual gilded Egyptian papyrus the mother brought back from Egypt.  
   
 Detail:  
-[![]({{ site.url }}/static/img/papyrus003.jpg)]({{ site.url }}/static/img/papyrus003.jpg)  
+[![](/static/img/papyrus003.jpg)](/static/img/papyrus003.jpg)  
 

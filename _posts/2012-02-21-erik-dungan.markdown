@@ -20,7 +20,7 @@ Prefer audio? [“Right click” here to download the audio.](http://dl.dropbox
 ## About Erik Dungan
 
 
-[![]({{ site.url }}/static/img/erik-dungan.jpg)]({{ site.url }}/static/img/erik-dungan.jpg)
+[![](/static/img/erik-dungan.jpg)](/static/img/erik-dungan.jpg)
 
 Erik Dungan is a Christian husband and father, startup founder and junkie, Rails and iOS developer, baseball and photography junkie, white belt in jiu jitsu, and brown belt in the kitchen.
 

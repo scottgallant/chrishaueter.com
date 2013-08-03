@@ -9,5 +9,5 @@ title: Sorry Miss Jackson, I was for real...
 wordpress_id: 99
 ---
 
-[![]({{ site.url }}/static/img/jackson009.jpg)]({{ site.url }}/static/img/jackson009.jpg)  
+[![](/static/img/jackson009.jpg)](/static/img/jackson009.jpg)  
 I figured I shouldn't post any full-resolution images of currency (wouldn't want to run afoul of the Secret Service, now would I?), but this is still a stunning image of Jackson.

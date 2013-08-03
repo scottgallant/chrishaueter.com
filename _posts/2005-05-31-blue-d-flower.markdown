@@ -9,5 +9,5 @@ title: Blue-d flower
 wordpress_id: 75
 ---
 
-[![]({{ site.url }}/static/img/image_013.jpg)]({{ site.url }}/static/img/image_013.jpg)  
+[![](/static/img/image_013.jpg)](/static/img/image_013.jpg)  
 This bloom originally had purple petals and yellow pollen.  Whoops...

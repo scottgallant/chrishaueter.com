@@ -11,4 +11,4 @@ wordpress_id: 117
 
 The beauty of Colorado clouds as they roll from mountains to valley is simply...impossible to describe. See for yourself:  
   
-[![]({{ site.url }}/static/img/dsc04139.jpg)]({{ site.url }}/static/img/dsc04139.jpg)
+[![](/static/img/dsc04139.jpg)](/static/img/dsc04139.jpg)

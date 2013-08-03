@@ -9,5 +9,5 @@ title: Green leaves
 wordpress_id: 85
 ---
 
-[![]({{ site.url }}/static/img/Scan201_May_31_2005.jpg)]({{ site.url }}/static/img/Scan201_May_31_2005.jpg)  
+[![](/static/img/Scan201_May_31_2005.jpg)](/static/img/Scan201_May_31_2005.jpg)  
 Various and sundry flower-stem-leaf-part things.

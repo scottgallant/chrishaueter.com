@@ -9,5 +9,5 @@ title: Panorama
 wordpress_id: 109
 ---
 
-[![]({{ site.url }}/static/img/Rock_1_panorama.jpg)]({{ site.url }}/static/img/Rock_1_panorama.jpg)  
+[![](/static/img/Rock_1_panorama.jpg)](/static/img/Rock_1_panorama.jpg)  
 A panorama (done with Autostitch) of a giant red rock formation.

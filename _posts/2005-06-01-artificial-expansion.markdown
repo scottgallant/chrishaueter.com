@@ -9,5 +9,5 @@ title: Artificial Expansion
 wordpress_id: 84
 ---
 
-[![]({{ site.url }}/static/img/Scan190_May_31_2005.jpg)]({{ site.url }}/static/img/Scan190_May_31_2005.jpg)  
+[![](/static/img/Scan190_May_31_2005.jpg)](/static/img/Scan190_May_31_2005.jpg)  
 This proto-carnation was actually still in its bulb, but I pulled it out and fluffed it up a bit.

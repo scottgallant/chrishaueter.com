@@ -9,5 +9,5 @@ title: Unknown flower
 wordpress_id: 86
 ---
 
-[![]({{ site.url }}/static/img/Scan202_May_31_2005.jpg)]({{ site.url }}/static/img/Scan202_May_31_2005.jpg)  
+[![](/static/img/Scan202_May_31_2005.jpg)](/static/img/Scan202_May_31_2005.jpg)  
 I found this flower on a bush in my front yard, though I still have no idea what flower it is.

@@ -9,5 +9,5 @@ title: Stamen? Oogonium?
 wordpress_id: 82
 ---
 
-[![]({{ site.url }}/static/img/Scan193_May_31_2005.jpg)]({{ site.url }}/static/img/Scan193_May_31_2005.jpg)  
+[![](/static/img/Scan193_May_31_2005.jpg)](/static/img/Scan193_May_31_2005.jpg)  
 Oh goody...delightfully bizarre-looking flower parts

@@ -9,5 +9,5 @@ title: Dangly fingers
 wordpress_id: 64
 ---
 
-[![]({{ site.url }}/static/img/image_0011.jpg)]({{ site.url }}/static/img/image_0011.jpg)  
+[![](/static/img/image_0011.jpg)](/static/img/image_0011.jpg)  
 Wouldn't it be funny if one were actually to have a dozen or so fingers floating and spinning vaporously beneath each hand?

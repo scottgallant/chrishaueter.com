@@ -9,5 +9,5 @@ title: Tiki
 wordpress_id: 105
 ---
 
-[![]({{ site.url }}/static/img/tiki_eyes.jpg)]({{ site.url }}/static/img/tiki_eyes.jpg)  
+[![](/static/img/tiki_eyes.jpg)](/static/img/tiki_eyes.jpg)  
 The eyes are the window to the soul - unless you don't have one.

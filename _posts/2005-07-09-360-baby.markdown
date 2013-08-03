@@ -9,5 +9,5 @@ title: 360, baby.
 wordpress_id: 116
 ---
 
-[![]({{ site.url }}/static/img/mountains_panorama.jpg)]({{ site.url }}/static/img/mountains_panorama.jpg)  
+[![](/static/img/mountains_panorama.jpg)](/static/img/mountains_panorama.jpg)  
 The Front Range and my neighborhood, in 360-degree splendor.

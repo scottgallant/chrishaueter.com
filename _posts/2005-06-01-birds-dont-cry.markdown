@@ -9,7 +9,7 @@ title: Birds don't cry
 wordpress_id: 92
 ---
 
-[![]({{ site.url }}/static/img/document_048.jpg)]({{ site.url }}/static/img/document_048.jpg)  
+[![](/static/img/document_048.jpg)](/static/img/document_048.jpg)  
 Take notice of the faint tear below the bird's eye...  
   
 Do birds have tear glands?

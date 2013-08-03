@@ -9,5 +9,5 @@ title: Graduation Day
 wordpress_id: 107
 ---
 
-[![]({{ site.url }}/static/img/Graduation_Portrait.jpg)]({{ site.url }}/static/img/Graduation_Portrait.jpg)  
+[![](/static/img/Graduation_Portrait.jpg)](/static/img/Graduation_Portrait.jpg)  
 This is me, beaming after receiving my fake diploma on Graduation day.  The real one came later.

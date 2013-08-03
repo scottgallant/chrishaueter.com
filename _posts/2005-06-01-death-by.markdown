@@ -9,5 +9,5 @@ title: Death by...
 wordpress_id: 98
 ---
 
-[![]({{ site.url }}/static/img/Hersheys_with_Almonds002.jpg)]({{ site.url }}/static/img/Hershey%27s_with_Almonds002.jpg)  
+[![](/static/img/Hersheys_with_Almonds002.jpg)](/static/img/Hershey%27s_with_Almonds002.jpg)  
 I had to keep this image away from my mother, because it sent her into frenzies of craving.

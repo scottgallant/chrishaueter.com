@@ -9,5 +9,5 @@ title: Quarter-carnation
 wordpress_id: 74
 ---
 
-[![]({{ site.url }}/static/img/image_016.jpg)]({{ site.url }}/static/img/image_016.jpg)  
+[![](/static/img/image_016.jpg)](/static/img/image_016.jpg)  
 A quarter-carnation on a plaid pillowcase.

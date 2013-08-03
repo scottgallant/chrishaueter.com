@@ -9,8 +9,8 @@ title: Josie and Little Bit
 wordpress_id: 101
 ---
 
-[![]({{ site.url }}/static/img/josie_dog_drawing001.jpg)]({{ site.url }}/static/img/josie_dog_drawing001.jpg)  
+[![](/static/img/josie_dog_drawing001.jpg)](/static/img/josie_dog_drawing001.jpg)  
 A drawing of Josie, a dog that belongs to the bed-ridden woman my mother watched for several months.  
   
-[![]({{ site.url }}/static/img/little_bit_dog_drawing001.jpg)]({{ site.url }}/static/img/little_bit_dog_drawing001.jpg)  
+[![](/static/img/little_bit_dog_drawing001.jpg)](/static/img/little_bit_dog_drawing001.jpg)  
 Little Bit, the second of Mom's watchee's dogs.

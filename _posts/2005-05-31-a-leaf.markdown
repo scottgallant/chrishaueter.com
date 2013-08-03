@@ -9,5 +9,5 @@ title: A leaf
 wordpress_id: 71
 ---
 
-[![]({{ site.url }}/static/img/image_009.jpg)]({{ site.url }}/static/img/image_009.jpg)  
+[![](/static/img/image_009.jpg)](/static/img/image_009.jpg)  
 This leaf is very special to me.

@@ -9,5 +9,5 @@ title: Take that
 wordpress_id: 63
 ---
 
-[![]({{ site.url }}/static/img/image_002.jpg)]({{ site.url }}/static/img/image_002.jpg)  
+[![](/static/img/image_002.jpg)](/static/img/image_002.jpg)  
 When a problem comes along, you must whip it...

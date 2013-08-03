@@ -9,5 +9,5 @@ title: Intermingling
 wordpress_id: 67
 ---
 
-[![]({{ site.url }}/static/img/image_004.jpg)]({{ site.url }}/static/img/image_004.jpg)  
+[![](/static/img/image_004.jpg)](/static/img/image_004.jpg)  
 The solid and thin are not to be seperated...

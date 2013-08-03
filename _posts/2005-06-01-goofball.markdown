@@ -9,8 +9,8 @@ title: Goofball
 wordpress_id: 81
 ---
 
-[![]({{ site.url }}/static/img/goofball.jpg)]({{ site.url }}/static/img/goofball.jpg)  
+[![](/static/img/goofball.jpg)](/static/img/goofball.jpg)  
 Wow.  I used to act really funny.  
   
 Oh, wait - I still do.  
-[![]({{ site.url }}/static/img/Picture_001.jpg)]({{ site.url }}/static/img/Picture_001.jpg)
+[![](/static/img/Picture_001.jpg)](/static/img/Picture_001.jpg)

@@ -9,5 +9,5 @@ title: Danish Wedding Cookies
 wordpress_id: 88
 ---
 
-[![]({{ site.url }}/static/img/danish_wedding_cookies001.jpg)]({{ site.url }}/static/img/danish_wedding_cookies001.jpg)  
+[![](/static/img/danish_wedding_cookies001.jpg)](/static/img/danish_wedding_cookies001.jpg)  
 

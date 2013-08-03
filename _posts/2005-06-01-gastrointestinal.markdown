@@ -9,5 +9,5 @@ title: Gastrointestinal
 wordpress_id: 100
 ---
 
-[![]({{ site.url }}/static/img/document_067.jpg)]({{ site.url }}/static/img/document_067.jpg)  
+[![](/static/img/document_067.jpg)](/static/img/document_067.jpg)  
 My favorite words in tenth grade: splanchnic and scrofulous

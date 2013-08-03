@@ -9,5 +9,5 @@ title: A penny
 wordpress_id: 104
 ---
 
-[![]({{ site.url }}/static/img/penny002.jpg)]({{ site.url }}/static/img/penny002.jpg)  
+[![](/static/img/penny002.jpg)](/static/img/penny002.jpg)  
 I used to collect these and polish them with erasers.  I thought that the shinier they were, the more valuable.

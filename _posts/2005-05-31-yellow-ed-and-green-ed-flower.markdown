@@ -9,5 +9,5 @@ title: Yellow-ed and green-ed flower
 wordpress_id: 76
 ---
 
-[![]({{ site.url }}/static/img/image_012.jpg)]({{ site.url }}/static/img/image_012.jpg)  
+[![](/static/img/image_012.jpg)](/static/img/image_012.jpg)  
 Ditto.

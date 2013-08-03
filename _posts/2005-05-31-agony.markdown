@@ -9,5 +9,5 @@ title: Agony
 wordpress_id: 65
 ---
 
-[![]({{ site.url }}/static/img/image_005.jpg)]({{ site.url }}/static/img/image_005.jpg)  
+[![](/static/img/image_005.jpg)](/static/img/image_005.jpg)  
 My brother's expression in this scan reminds me of Edvard Munch's The Scream and Dante's Inferno.

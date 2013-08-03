@@ -9,6 +9,6 @@ title: A black hole is devouring my home!
 wordpress_id: 115
 ---
 
-[![]({{ site.url }}/static/img/house_panorama.jpg)]({{ site.url }}/static/img/house_panorama.jpg)  
+[![](/static/img/house_panorama.jpg)](/static/img/house_panorama.jpg)  
 A weird , stitched-together picture of my house...  
 

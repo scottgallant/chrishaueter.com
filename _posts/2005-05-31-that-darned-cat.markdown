@@ -9,5 +9,5 @@ title: That darned cat!
 wordpress_id: 69
 ---
 
-[![]({{ site.url }}/static/img/image_008.jpg)]({{ site.url }}/static/img/image_008.jpg)  
+[![](/static/img/image_008.jpg)](/static/img/image_008.jpg)  
 My cat became intrigued by the moving scanner beam and the bouquet of aromatic flowers, so I took an attack of opportunity.

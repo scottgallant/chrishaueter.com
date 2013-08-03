@@ -9,5 +9,5 @@ title: Flavo-bottle
 wordpress_id: 70
 ---
 
-[![]({{ site.url }}/static/img/image_007.jpg)]({{ site.url }}/static/img/image_007.jpg)  
+[![](/static/img/image_007.jpg)](/static/img/image_007.jpg)  
 The bottom of a bottle of caffeine-free, calorie-free, sodium-free, phenylketonuric "Clear American Black Cherry Sparkling Flavored Beverage".

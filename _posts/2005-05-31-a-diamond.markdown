@@ -9,4 +9,4 @@ title: A diamond
 wordpress_id: 66
 ---
 
-[![]({{ site.url }}/static/img/image_006.jpg)]({{ site.url }}/static/img/image_006.jpg)
+[![](/static/img/image_006.jpg)](/static/img/image_006.jpg)

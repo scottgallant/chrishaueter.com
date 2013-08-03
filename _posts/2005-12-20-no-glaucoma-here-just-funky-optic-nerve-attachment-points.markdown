@@ -18,12 +18,12 @@ Such cool software!
 
 
 OS (left eye):  
-![The image ]({{ site.url }}/static/img/75386321_e224560df9.jpg)]({{ site.url }}/static/img/75386321_e224560df9.jpg)  
+![The image ](/static/img/75386321_e224560df9.jpg)](/static/img/75386321_e224560df9.jpg)  
 
 
   
 OD (right eye):  
-![The image ]({{ site.url }}/static/img/75386320_320f27d5b0.jpg)]({{ site.url }}/static/img/75386320_320f27d5b0.jpg)  
+![The image ](/static/img/75386320_320f27d5b0.jpg)](/static/img/75386320_320f27d5b0.jpg)  
   
 
 

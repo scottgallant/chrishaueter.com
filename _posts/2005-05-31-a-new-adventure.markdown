@@ -20,27 +20,27 @@ So I'm in Colorado Springs, Colorado, looking for an internship, and doing other
 
 Flowers, for example:
 
- [![blue daisy]({{ site.url }}/static/img/blue_daisy.jpg)]({{ site.url }}/static/img/blue_daisy.jpg)  
- [![image 7]({{ site.url }}/static/img/image_007.jpg)]({{ site.url }}/static/img/image_007.jpg)  
- [![image 14]({{ site.url }}/static/img/image_014.jpg)]({{ site.url }}/static/img/image_014.jpg)  
- [![image 16]({{ site.url }}/static/img/image_016.jpg)]({{ site.url }}/static/img/image_016.jpg)  
- [![image 11]({{ site.url }}/static/img/image_011.jpg)]({{ site.url }}/static/img/image_011.jpg)  
- [![image 8]({{ site.url }}/static/img/image_008.jpg)]({{ site.url }}/static/img/image_008.jpg)  
- [![image 15]({{ site.url }}/static/img/image_015.jpg)]({{ site.url }}/static/img/image_015.jpg)  
- [![image 9]({{ site.url }}/static/img/image_009.jpg)]({{ site.url }}/static/img/image_009.jpg)  
- [![image 12]({{ site.url }}/static/img/image_012.jpg)]({{ site.url }}/static/img/image_012.jpg)  
- [![image 10]({{ site.url }}/static/img/image_010.jpg)]({{ site.url }}/static/img/image_010.jpg)  
- [![image 13]({{ site.url }}/static/img/image_013.jpg)]({{ site.url }}/static/img/image_013.jpg)  
+ [![blue daisy](/static/img/blue_daisy.jpg)](/static/img/blue_daisy.jpg)  
+ [![image 7](/static/img/image_007.jpg)](/static/img/image_007.jpg)  
+ [![image 14](/static/img/image_014.jpg)](/static/img/image_014.jpg)  
+ [![image 16](/static/img/image_016.jpg)](/static/img/image_016.jpg)  
+ [![image 11](/static/img/image_011.jpg)](/static/img/image_011.jpg)  
+ [![image 8](/static/img/image_008.jpg)](/static/img/image_008.jpg)  
+ [![image 15](/static/img/image_015.jpg)](/static/img/image_015.jpg)  
+ [![image 9](/static/img/image_009.jpg)](/static/img/image_009.jpg)  
+ [![image 12](/static/img/image_012.jpg)](/static/img/image_012.jpg)  
+ [![image 10](/static/img/image_010.jpg)](/static/img/image_010.jpg)  
+ [![image 13](/static/img/image_013.jpg)](/static/img/image_013.jpg)  
 
 
 And body parts:
 
- [![image 1]({{ site.url }}/static/img/image_001.jpg)]({{ site.url }}/static/img/image_001.jpg)  
- [![image 2]({{ site.url }}/static/img/image_002.jpg)]({{ site.url }}/static/img/image_002.jpg)  
- [![image 3]({{ site.url }}/static/img/image_003.jpg)]({{ site.url }}/static/img/image_003.jpg)  
- [![image 4]({{ site.url }}/static/img/image_004.jpg)]({{ site.url }}/static/img/image_004.jpg)  
- [![image 5]({{ site.url }}/static/img/image_006.jpg)]({{ site.url }}/static/img/image_006.jpg)  
- [![image 6]({{ site.url }}/static/img/image_005.jpg)]({{ site.url }}/static/img/image_005.jpg)  
+ [![image 1](/static/img/image_001.jpg)](/static/img/image_001.jpg)  
+ [![image 2](/static/img/image_002.jpg)](/static/img/image_002.jpg)  
+ [![image 3](/static/img/image_003.jpg)](/static/img/image_003.jpg)  
+ [![image 4](/static/img/image_004.jpg)](/static/img/image_004.jpg)  
+ [![image 5](/static/img/image_006.jpg)](/static/img/image_006.jpg)  
+ [![image 6](/static/img/image_005.jpg)](/static/img/image_005.jpg)  
 
 Yup, fun times. I can post MUCH higher-res photographs, if anyone wants them.
 

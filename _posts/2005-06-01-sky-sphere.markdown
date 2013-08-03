@@ -9,5 +9,5 @@ title: Sky sphere
 wordpress_id: 90
 ---
 
-[![]({{ site.url }}/static/img/document_023.jpg)]({{ site.url }}/static/img/document_023.jpg)  
+[![](/static/img/document_023.jpg)](/static/img/document_023.jpg)  
 A spherical-coordinate diagram I saved from last summer's Summer Science Program (SSP) in Socorro, New Mexico.

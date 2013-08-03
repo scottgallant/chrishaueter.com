@@ -9,5 +9,5 @@ title: Wasted paper
 wordpress_id: 95
 ---
 
-[![]({{ site.url }}/static/img/document_079.jpg)]({{ site.url }}/static/img/document_079.jpg)  
+[![](/static/img/document_079.jpg)](/static/img/document_079.jpg)  
 Another SSP artifact.  One of these was printed after every single print run from the New Mexico Tech computer lab... how wasteful.

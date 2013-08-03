@@ -9,5 +9,5 @@ title: Tiny...
 wordpress_id: 72
 ---
 
-[![]({{ site.url }}/static/img/image_010.jpg)]({{ site.url }}/static/img/image_010.jpg)  
+[![](/static/img/image_010.jpg)](/static/img/image_010.jpg)  
 It's pretty suprising that I got such great results with a flower only about 2 cm in width.
