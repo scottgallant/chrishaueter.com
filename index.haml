@@ -1,17 +1,17 @@
 ---
-layout: default
+layout: portfolio
 ---
 .seven.columns
   %h3 What I can offer...
   %p I am an entrepreneurial software engineer and full stack web developer.
-  %ul
+  %ul.square
     %li I solve business challenges and technical challenges.
     %li I build scalable web applications that are highly maintainable.
     %li I can work remotely using tools such as Git/GitHub and HipChat.
     %li I studied CS at Columbia University with a concentration in Artificial Intelligence.
     %li
       See my most recent work:
-      %a{href: "http://tylergathro.com/"} http://tylergathro.com/
+      %a{:href => "http://tylergathro.com/"} http://tylergathro.com/
       (a custom portfolio/blog using Django templating, scalably hosted on Amazon S3).
 .six.columns.omega
-  %img{alt: "", src: "{{ site.url }}/static/img/chris-haueter-profile-photo.jpg", width: "340px"}
+  %img{:alt => "", :src => "{{ site.url }}/static/img/chris-haueter-profile-photo.jpg", :width => "340px"}/

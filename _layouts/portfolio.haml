@@ -1,0 +1,45 @@
+!!!
+%html
+  %head
+    %meta{charset: "utf-8"}
+    %meta{content: "IE=edge,chrome=1", "http-equiv" => "X-UA-Compatible"}
+    %meta{content: "width=device-width", name: "viewport"}
+    %title {{ page.title }}
+    %link{href: "{{ site.url }}/static/img/favicon.png", rel: "shortcut icon", type: "image/png"}
+    %link{href: "{{ site.url }}/static/css/base.css", :rel => "stylesheet"}
+    %link{href: "{{ site.url }}/static/css/skeleton.css", :rel => "stylesheet"}
+    %link{href: "{{ site.url }}/static/css/layout.css", :rel => "stylesheet"}
+  %body
+    .container
+      .sixteen.columns
+        %h1.remove-bottom
+          %a{href: '/'} Chris Haueter
+        %h3#subtitle Software Engineer & Full Stack Web Developer
+        %hr
+      .three.columns
+        %h3 Contact
+        %ul.nav-list
+          %li
+            %a{href: "mailto:chris.haueter@gmail.com", :target => "_blank"} Email
+          %li
+            %a{href: "blog"} Blog
+          %li
+            %a{href: "{{ site.url }}/static/doc/ChrisHaueterResume.pdf", :target => "_blank"} Résumé
+          %li
+            %a{href: "https://github.com/chrishaum/", :target => "_blank"} Github
+          %li
+            %a{href: "http://www.linkedin.com/in/chrishaueter/", :target => "_blank"} LinkedIn
+          %li
+            %a{href: "https://twitter.com/chrishaum", :target => "_blank"} Twitter
+          %li
+            %a{href: "http://stackoverflow.com/users/130870/chrishaum", :target => "_blank"} Stack Overflow
+          %li
+            %a{href: "http://doodle.com/chris.haueter", :target => "_blank"} Schedule a meeting
+
+      {{ content }}
+
+      .sixteen.columns.footer
+        Save lives efficiently. Donate to the
+        = succeed "," do
+          %a{:href => "http://againstmalaria.com"} Against Malaria Foundation
+        the most cost-effective life-saving charity.

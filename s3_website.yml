@@ -1,7 +1,6 @@
 s3_id: <%= ENV['S3_ID'] %>
 s3_secret: <%= ENV['S3_SECRET'] %>
 s3_bucket: chrishaum-jekyll
-s3_reduced_redundancy: true
 
 # Below are examples of all the available configurations.
 # See README for more detailed info on each of them.
@@ -10,16 +9,16 @@ s3_reduced_redundancy: true
 #   "assets/*": 6000
 #   "*": 300
 
-# gzip:
-#   - .html
-#   - .css
+gzip:
+  - .html
+  - .css
 #   - .md
 
 # s3_endpoint: ap-northeast-1
 
 # ignore_on_server: that_folder_of_stuff_i_dont_keep_locally
 
-# s3_reduced_redundancy: true
+s3_reduced_redundancy: true
 
 # cloudfront_distribution_id: your-dist-id
 
@@ -31,7 +30,7 @@ s3_reduced_redundancy: true
 #     items:
 #       CNAME: your.website.com
 
-# concurrency_level: 100
+concurrency_level: 100
 
 # redirects:
 #   index.php: /

@@ -1,20 +1,19 @@
 !!!
 %html
   %head
-    %meta{charset: "utf-8"}/
-    %meta{content: "IE=edge,chrome=1", "http-equiv" => "X-UA-Compatible"}/
-    %meta{content: "width=device-width", name: "viewport"}/
+    %meta{charset: "utf-8"}
+    %meta{content: "IE=edge,chrome=1", "http-equiv" => "X-UA-Compatible"}
+    %meta{content: "width=device-width", name: "viewport"}
     %title {{ page.title }}
-    %link{href: "{{ site.url }}/static/favicon.png", rel: "shortcut icon", type: "image/png"}
-    %link{href: "{{ site.url }}/static/css/syntax.css", rel: "stylesheet"}/
-    %link{href: "{{ site.url }}/static/css/main.css", rel: "stylesheet"}/
+    %link{href: "{{ site.url }}/static/img/favicon.png", rel: "shortcut icon", type: "image/png"}
+    %link{href: "{{ site.url }}/static/css/syntax.css", rel: "stylesheet"}
+    %link{href: "{{ site.url }}/static/css/main.css", rel: "stylesheet"}
   %body
     .container
       .site
         .header
           %h1.title
             %a{href: "/"} {{ site.name }}
-          %a.extra{href: "/"} home
           %a.extra{href: "/blog"} blog
           %a.extra{href: "{{ site.url }}/static/doc/ChrisHaueterResume.pdf", target: '_blank'} résumé
 
@@ -25,9 +24,9 @@
             %p
               Chris Haueter
               %br/
-              Software Engineer
+              Software Engineer &amp; Full Stack Web Developer
               %br/
-              chris.haueter@gmail.com
+              %a{href: "mailto:chris.haueter@gmail.com"} chris.haueter@gmail.com
           .contact
             %p
               %a{href: "http://github.com/chrishaum/"} github.com/chrishaum
