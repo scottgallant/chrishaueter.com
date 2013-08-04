@@ -19,6 +19,12 @@
 
         {{ content }}
 
+        .github-history
+          %em
+            You can view this page's change history on
+            = succeed "." do
+              %a{href: 'https://github.com/chrishaum/chrishaueter.com/commits/master/{{ page.path }}'} Github
+
         .footer
           .contact
             %p
