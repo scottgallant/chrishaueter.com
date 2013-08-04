@@ -15,3 +15,4 @@ exclude:
   - s3_website.yml
   - exitwp
   - pip-log.txt
+  - README.md
