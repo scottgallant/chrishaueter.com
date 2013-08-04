@@ -1,2 +1,2 @@
 bundle exec jekyll build
-s3_website push
+s3_website push --headless
