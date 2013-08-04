@@ -4,3 +4,5 @@ Vagrantfile
 exitwp/
 images/*
 pip-log.txt
+.ruby-version
+.bundle/config
