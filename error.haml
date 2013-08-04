@@ -3,16 +3,7 @@ layout: default
 ---
 %script{src: "//cdnjs.cloudflare.com/ajax/libs/jquery/1.9.1/jquery.min.js"}
 :javascript
-  function fixurl () {
-  for (var i=0; i<window.location.pathname.split(/\//g).length-2; i++)
-    $(this).attr("href", "../" + $(this).attr("href"))
-    $(this).attr("src", "../" + $(this).attr("src"))
-  }
-  
   $(document).ready(function() {
-    $("head link").each( fixurl );
-    $("body a").each( fixurl );
-    $("body img").each( fixurl );
     $("#url").text(window.location.pathname);
   })
 %h1
