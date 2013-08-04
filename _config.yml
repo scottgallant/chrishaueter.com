@@ -1,7 +1,9 @@
 name: chrishaueter.com
+description: A blog on code and entrepreneurship.
 markdown: redcarpet
 permalink: /blog/:year/:month/:title
 pygments: true
+url: http://chrishaueter.com
 
 sass:
   syntax: sass
