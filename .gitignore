@@ -1,8 +1,5 @@
 _site
-.vagrant
-Vagrantfile
-exitwp/
-images/*
 pip-log.txt
 .ruby-version
 .bundle/*
+icebox/*

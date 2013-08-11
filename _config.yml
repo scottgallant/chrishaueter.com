@@ -11,10 +11,9 @@ sass:
 
 exclude: 
   - .gitignore
-  - Vagrantfile
   - Gemfile
   - Gemfile.lock
   - s3_website.yml
-  - exitwp
   - pip-log.txt
   - README.md
+  - icebox
