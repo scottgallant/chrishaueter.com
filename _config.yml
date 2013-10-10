@@ -1,7 +1,7 @@
 name: chrishaueter.com
 description: A blog on code and entrepreneurship.
 markdown: redcarpet
-permalink: /blog/:year/:month/:title
+permalink: /blog/:title
 pygments: true
 url: http://chrishaueter.com
 
