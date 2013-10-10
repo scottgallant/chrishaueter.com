@@ -1,4 +1,5 @@
 _site
+_drafts
 pip-log.txt
 .ruby-version
 .bundle/*
