@@ -1,9 +1,9 @@
 ---
 author: chris
 comments: false
-date: 2009-01-24 08:34:55+00:00
+date: {}
 layout: page
-published: false
+published: true
 slug: about
 title: about
 wordpress_id: 35
@@ -17,5 +17,6 @@ I've written on a number of topics, including my faith and religion, service, ed
 
 With any luck, you'll find something useful in what I've written. If you do, feel free to let me know!
 
-Chris Haueter
-_chris.haueter@gmail.com_
+Chris Haueter  
+_chris.haueter@gmail.com_  
+[chrishaueter.com](http://chrishaueter.com)
