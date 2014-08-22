@@ -4,3 +4,4 @@ pip-log.txt
 .ruby-version
 .bundle/*
 icebox/*
+.env
