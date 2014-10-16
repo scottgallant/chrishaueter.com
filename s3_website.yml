@@ -1,10 +1,15 @@
-s3_id: <%= ENV['S3_ID'] %>
-s3_secret: <%= ENV['S3_SECRET'] %>
-s3_bucket: chrishaueter.com
+# See docs: https://github.com/laurilehmijoki/s3_website
+# Secrets are stored in the .env file (copy .env.example to .env and insert your secrets)
+
+s3_id: <%= ENV['AWS_ACCESS_KEY_ID'] %>
+s3_secret: <%= ENV['AWS_SECRET_ACCESS_KEY'] %>
+s3_bucket: <%= ENV['S3_BUCKET'] %>
+cloudfront_distribution_id: <%= ENV['CLOUDFRONT_DISTRIBUTION_ID'] %>
 
 max_age:
   "*": 300
 
 gzip: true
-s3_reduced_redundancy: false
+gzip_zopfli: true
+s3_reduced_redundancy: true
 concurrency_level: 100
