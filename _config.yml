@@ -3,7 +3,7 @@ description: A blog on code and entrepreneurship.
 markdown: redcarpet
 permalink: /blog/:title
 pygments: true
-url: http://chrishaueter.com
+url: https://chrishaueter.com
 
 sass:
   syntax: sass
