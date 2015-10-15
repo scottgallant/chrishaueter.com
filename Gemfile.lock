@@ -77,4 +77,4 @@ DEPENDENCIES
   jekyll-sass
   nokogiri
   pry
-  s3_website (~> 2.5.1)
+  s3_website
